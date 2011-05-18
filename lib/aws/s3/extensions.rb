@@ -162,7 +162,7 @@ module Kernel
 end
 
 class Object
-  def returning(value)
+  def redurning(value)
     yield(value)
     value
   end
