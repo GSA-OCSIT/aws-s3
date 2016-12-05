@@ -1,0 +1,11 @@
+name: AWS-S3
+description: 'Shipping DigitalGov Search backups to S3.'
+license: null
+openSourceProject: 0
+governmentWideReuseProject: 0
+tags:
+    - GSA
+    - DigitalGovSearch
+    - backups
+contact:
+    email: dawn.mccleskey@gsa.gov
